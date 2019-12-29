@@ -1,0 +1,24 @@
+---
+title: Contact
+use-site-title: true
+---
+
+Ce site est administré par <a href="mailto:robin@mamie.one">Robin Mamié</a>.
+
+<form action="https://formspree.io/info@fsrla.ch" method="POST" class="form" id="contact-form">
+  <p>Vous pouvez aussi directement prendre contact avec nous en utilisant ce formulaire.</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Addresse e-mail" title="Email">
+    </div>
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Votre nom" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="[Site FSRLA] Nouveau contact">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Votre message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="?message=Votre message a été envoyé avec succès, merci !" />
+
+  <button type="submit" class="btn btn-lg btn-primary">Envoyer</button>
+</form>
