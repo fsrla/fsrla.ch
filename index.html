@@ -1,20 +1,33 @@
 ---
-title: Actualités
-subtitle: Toutes les nouvelles de la FSRLA
+title: FSRLA
+subtitle: Fédération suisse romande de lutte amateur
 use-site-title: true
 ---
+
+Bienvenue sur le site de la Fédération suisse romande de lutte amateur.
+
+<br><br>
+
+<center>
+  <img src="/img/logo.png" alt="Logo FSRLA">
+</center>
+
+<hr>
+
+<h1>Actualités</h1>
+<br>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+      {{ post.subtitle }}
+    </h3>
+    {% endif %}
     </a>
 
     <p class="post-meta">
@@ -51,7 +64,7 @@ use-site-title: true
     </div>
     {% endif %}
 
-   </article>
+  </article>
   {% endfor %}
 </div>
 
@@ -69,4 +82,3 @@ use-site-title: true
   {% endif %}
 </ul>
 {% endif %}
-

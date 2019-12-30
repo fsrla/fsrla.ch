@@ -6,14 +6,11 @@ baseurl: ""
 
 # Menu
 navbar-links:
-  Actualités: "news"
-  Clubs: "clubs"
-  Comité: "comite"
   Documents: "documents"
-  Liens:
-    - Swiss Wrestling: "https://swisswrestling.ch/"
-    - ZRV: "http://zrv-ringen.ch/"
-    - ORV: "http://www.orv.ch/"
+  Membres:
+    - Clubs: "clubs"
+    - Comité: "comite"
+    - Arbitres: "arbitres"
   Contact: "contact"
 
 avatar: "/img/avatar.png"
@@ -44,8 +41,9 @@ author:
 social-network-links:
   rss: true
   email: "info@fsrla.ch"
+  github: "fsrla"
 
-url-pretty: "FSRLA.ch"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "FSRLA.ch"
 
 # Post sharing
 share-links-active:
@@ -119,7 +117,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/news/page:num/"
+#paginate_path: "/news/page:num/"
 
 kramdown:
   input: GFM
