@@ -16,3 +16,4 @@ use-site-title: true
  | David Schneuwly | Régional | RS Sense |
  | Stefan Syarov | Régional | CS l'Equipe |
 
+_Dernière mise à jour: 30.12.2019_
