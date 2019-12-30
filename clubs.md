@@ -21,4 +21,4 @@ Site Web | Club | Contact | Liens
 Site Web | Club | Contact | Liens
 [![logo](/img/clubs/illarsaz.png)](https://illarsaz-lutte.ch/) | CL Illarsaz-Haut-Lac | Christian Rouiller | <a href="https://www.facebook.com/IllarsazLutte/" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a> <a href="mailto:illarsaz.lutte@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
 
-_Dernière mise à jour: 30.12.2019_
+_Dernière mise à jour : le 30.12.2019_
