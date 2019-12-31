@@ -306,6 +306,10 @@ footer .theme-by {
   }
 }
 
+footer .footer-links {
+  margin-bottom: 20px;
+}
+
 /* --- Post preview --- */
 
 .post-preview {

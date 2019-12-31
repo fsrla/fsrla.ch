@@ -6,17 +6,10 @@ use-site-title: true
 
 Bienvenue sur le site de la Fédération suisse romande de lutte amateur.
 
-<br><br>
-
-<center>
-  <img src="/img/logo-white.png" alt="Logo FSRLA" width="300" hspace="10" style="border:1px solid black">
-  <img src="/img/swfe.svg" alt="Logo SWFE" width="300" hspace="10">
-</center>
-
+<br>
 <hr>
 
 <h1>Actualités</h1>
-<br>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -83,3 +76,10 @@ Bienvenue sur le site de la Fédération suisse romande de lutte amateur.
   {% endif %}
 </ul>
 {% endif %}
+
+<br><hr><br>
+
+<center>
+  <img src="/img/logo-white.png" alt="Logo FSRLA" width="300" hspace="10" vspace="10" style="border:1px solid black">
+  <a href="https://swisswrestling.ch/" target="_blank"><img src="/img/swfe.svg" alt="Logo SWFE" width="300" hspace="10" vspace="10"></a>
+</center>
