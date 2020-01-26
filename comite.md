@@ -19,4 +19,4 @@ use-site-title: true
 |-|-|:-:|
 | Christoph Feyer | Chef technique | <a href="mailto:feyerch@hotmail.com" title="Email"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email</span></a>
 
-_Dernière mise à jour : le 18.01.2020_
+_Dernière mise à jour : le 26.01.2020_
