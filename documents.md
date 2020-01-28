@@ -16,6 +16,6 @@ use-site-title: true
 
 Tous les règlements et documents de la Swiss Wrestling Federation sont présents sur [son site internet](https://swisswrestling.ch/manual_fr).
 
-- [2020 - Calendrier Swiss Wrestling](https://swisswrestling.ch/manual_fr?ceSwfeManual[french]=/srv/www/chroot/site05/web/public/fileadmin/SWFE/ManuelF/00%20Programme%20annuel/00.01%20Programme%20annuel-Swiss%20Wrestling%202020-16.01.2020.pdf)
+- [Calendrier Swiss Wrestling](https://swisswrestling.ch/calendar)
 
-_Dernière mise à jour : le 18.01.2019_
+_Dernière mise à jour : le 28.01.2019_
