@@ -14,7 +14,7 @@ use-site-title: true
 | Ali Menasri | Rég. | Genève-Lutte |
 | Qais Mohammadi | Rég. | RS Sense |
 | Benno Jungo | Rég. | RS Sense |
-| David Schneuwly | Rég. | RS Sense |
 | Stefan Syarov | Rég. | CS l'Equipe |
+| *David Schneuwly* | Rég. | RS Sense |
 
-_Dernière mise à jour : le 02.01.2020_
+_Dernière mise à jour : le 06.02.2020_
