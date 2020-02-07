@@ -9,6 +9,7 @@ use-site-title: true
 01.02.2020 | [16<sup>e</sup> Mémorial Mikaël Sarrasin](/docs/2020/2020-02-01-mikael-sarrasin.pdf) | Résultats
 22.02.2020 | [24<sup>e</sup> Tournoi international de la Singine](/docs/2020/2020-02-22-sense-fr.pdf) ([DE](/docs/2020/2020-02-22-sense-de.pdf)) | Résultats
 16.05.2020 | 41<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
+29.08.2020 | Coupe et championnats romands, Martigny | Résultats
 
 * * *
 
@@ -24,11 +25,11 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 ### Cadre romand
 
 - Centre Valais / Stützpunkt Wallis
-    - 19:00 --- 1er mercredi de chaque mois / 1. Mittwoch des Monats
+    - 19:00 --- 1<sup>er</sup> mercredi de chaque mois / 1. Mittwoch des Monats
 - Centre Fribourg / Stützpunkt Freiburg
-    - 19:30 --- 2e jeudi de chaque mois / 2. Donnerstag des Monats
+    - 19:30 --- 2<sup>e</sup> jeudi de chaque mois / 2. Donnerstag des Monats
 - Centre Genève / Stützpunkt Genf
-    - 18:00 --- 3e mardi de chaque mois / 3. Dienstag des Monats
+    - 18:00 --- 3<sup>e</sup> mardi de chaque mois / 3. Dienstag des Monats
     - Centre Sportif du Bois des Frères, Chemin de l'Ecu 24, 1219 Châtelaine
 
 #### Programme
@@ -74,4 +75,4 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 
 ![programme-cadre-romand](/docs/2020/2020-programme-cadre-romand.jpg)
 
-_Dernière mise à jour : le 06.02.2020_
+_Dernière mise à jour : le 07.02.2020_
